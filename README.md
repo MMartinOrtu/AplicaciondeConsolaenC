@@ -1,6 +1,10 @@
 # Aplicacion de Consola en C
 Proyecto de crear una aplicación de consola en C para editar archivos de configuración del sistema operativo.
 
+Los archivos del proyecto se encuentran dentro de la carpeta "Producto 3".
+
+Este proyecto ha sido realizado con Visual Studio en C.
+
 En este ejercicio he desarrollado una aplicación de consola en C para añadir pares IP URL contenidos en un archivo “pares.txt” a un archivo hosts. Solo copia los pares IP URL que no estén ya en el archivo hosts.
 A continuación explico las funciones empleadas
 
