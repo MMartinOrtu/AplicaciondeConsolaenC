@@ -1,6 +1,8 @@
 # Aplicacion de Consola en C
 Proyecto de crear una aplicación de consola en C para editar archivos de configuración del sistema operativo.
 
+Este proyecto es un ejercicio del Ciclo de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma de la UOC.
+
 Los archivos del proyecto se encuentran dentro de la carpeta "Producto 3".
 
 Este proyecto ha sido realizado con Visual Studio en C.
