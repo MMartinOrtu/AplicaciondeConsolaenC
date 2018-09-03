@@ -1,0 +1,7 @@
+127.0.0.1 localhost 
+127.0.0.1 www.lavanguardia.com 
+127.0.0.1 localhost 
+127.0.0.1 www.elpais.es 
+127.0.0.1 www.ccoo.es 
+127.0.0.1 www.google.cat
+ 
